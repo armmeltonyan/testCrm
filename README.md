@@ -1,4 +1,4 @@
-# instuction to run
+# instruction to run
 
 # clone the project
 # composer install
