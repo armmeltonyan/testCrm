@@ -1,4 +1,3 @@
-# testCrm
 # instuction to run
 
 # clone the project
